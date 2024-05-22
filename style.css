@@ -1,6 +1,7 @@
 .title {
     display: flex;
     justify-content: space-between;
+    background-color: #1f2937;
 }
 
 .links {
@@ -11,8 +12,14 @@
 .header {
     display: flex;
     align-items: center;
+    color: #F9FAF8;
 }
 
 ul {
     list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #F9FAF8;
 }
