@@ -37,7 +37,7 @@ a {
     justify-content: space-around;
 }
 
-button {
+.sign-up {
     background-color: #3882F6;
     color: #f9fAF8;
     border-radius: 12px;
