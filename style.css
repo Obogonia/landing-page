@@ -1,0 +1,12 @@
+.title {
+    display: flex;
+}
+
+.links {
+    display: flex;
+    gap: 10px;
+}
+
+ul {
+    list-style-type: none;
+}
