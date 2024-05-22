@@ -92,3 +92,13 @@ em {
     padding: 100px;
     background-color: #e5e7eb;
 }
+
+.call-action {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    background-color: #3882F6;
+    margin: 200px 300px;
+    padding: 20px 50px;
+    border-radius: 12px;
+}
