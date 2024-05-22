@@ -1,6 +1,6 @@
 .title {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #1f2937;
 }
 
@@ -28,9 +28,22 @@ a {
 .hero-text {
     display: flex;
     gap: 16px ;
+    background-color: #1f2937;
+    justify-content: space-around;
 }
 
 button {
     background-color: #3882F6;
     color: #f9fAF8;
+}
+
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
 }
