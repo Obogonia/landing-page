@@ -53,3 +53,8 @@ h1 {
     font-weight: bolder;
     color: #f9faf8;
 }
+
+.info-images {
+    display: flex;
+    justify-content: center;
+}
