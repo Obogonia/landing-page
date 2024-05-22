@@ -35,6 +35,9 @@ a {
 button {
     background-color: #3882F6;
     color: #f9fAF8;
+    border-radius: 12px;
+    border: none;
+    padding: 10px 40px;
 }
 
 .subtext {
