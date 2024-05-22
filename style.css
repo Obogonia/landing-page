@@ -24,3 +24,9 @@ a {
     text-decoration: none;
     color: #F9FAF8;
 }
+
+.hero-text {
+    display: flex;
+    gap: 16px ;
+}
+
