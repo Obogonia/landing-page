@@ -3,6 +3,7 @@
     display: flex;
     justify-content: space-around;
     background-color: #1f2937;
+    padding: 16px;
 }
 
 .links {
@@ -29,7 +30,7 @@ a {
 .hero-text {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display: flex;
-    gap: 16px ;
+    gap: 16px;
     background-color: #1f2937;
     justify-content: space-around;
 }
