@@ -30,3 +30,7 @@ a {
     gap: 16px ;
 }
 
+button {
+    background-color: #3882F6;
+    color: #f9fAF8;
+}
