@@ -67,3 +67,9 @@ h1 {
     justify-content: center;
     gap: 20px;
 }
+
+.image-text {
+    max-width: 225px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
