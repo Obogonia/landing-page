@@ -102,3 +102,9 @@ em {
     padding: 20px 50px;
     border-radius: 12px;
 }
+
+.footer {
+    text-align: center;
+    background-color: #1f2937;
+    color:#e5e7eb;
+}
