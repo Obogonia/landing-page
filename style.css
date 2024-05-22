@@ -7,6 +7,11 @@
     gap: 10px;
 }
 
+.header {
+    display: flex;
+    align-items: center;
+}
+
 ul {
     list-style-type: none;
 }
