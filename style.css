@@ -73,3 +73,22 @@ h1 {
     max-width: 225px;
     text-align: center;
 }
+
+em {
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.quote {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.testimonial {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    background-color: #e5e7eb;
+}
