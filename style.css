@@ -38,12 +38,12 @@ a {
     display: flex;
     gap: 16px;
     background-color: #1f2937;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 30px 10%;
 }
 
-h1 {
-    margin: 0;
+.left-hero {
+    max-width: 500px;
 }
 
 .sign-up {
@@ -64,6 +64,7 @@ h1 {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
+    margin: 0;
 }
 
 .info-header {
@@ -97,12 +98,12 @@ em {
 }
 
 .testimonial {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 100px;
+    padding: 100px 200px;
     background-color: #e5e7eb;
+}
+
+.quote {
+    text-align: end;
 }
 
 .call-action {
