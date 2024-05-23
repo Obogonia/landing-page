@@ -104,6 +104,14 @@ em {
     border-radius: 12px;
 }
 
+.call-button {
+    border-style: solid;
+    border-radius: 12px;
+    border-color: #e5e7eb;
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
 .footer {
     text-align: center;
     background-color: #1f2937;
