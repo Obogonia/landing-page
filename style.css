@@ -110,10 +110,10 @@ em {
     display: flex;
     justify-content: center;
     gap: 40px;
-    justify-content: space-around;
+    justify-content: space-between;
     background-color: #3882F6;
-    margin: 200px 300px;
-    padding: 20px 50px;
+    margin: 100px 100px;
+    padding: 50px 100px;
     border-radius: 12px;
 }
 
@@ -136,6 +136,7 @@ em {
     border-color: #e5e7eb;
     background-color: #3882F6;
     color: #F9FAF8;
+    padding: 10px 50px;
     
 }
 
