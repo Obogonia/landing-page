@@ -98,10 +98,24 @@ em {
     display: flex;
     justify-content: center;
     gap: 40px;
+    justify-content: space-around;
     background-color: #3882F6;
     margin: 200px 300px;
     padding: 20px 50px;
     border-radius: 12px;
+}
+
+.call-text {
+    color: #F9FAF8;
+}
+
+.call-header {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.call-subtext {
+    font-weight: lighter;
 }
 
 .call-button {
